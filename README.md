@@ -1,6 +1,3 @@
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
+# IT Student Table
+> This is the table for the IT students in GeeksIn Silicon Rube Cafe 2026.
 
