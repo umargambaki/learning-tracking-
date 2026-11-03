@@ -11,5 +11,8 @@
 |6|Usman Muhammad|UG23/022|
 |7|Mohammed Usman|UG23/077|
 
----|
+---
 
+## STUDENTS GITHUB PROFILES
+> This table contains the student direct github account profile.
+[Umar Sulaiman](github.com/umargambaki)
