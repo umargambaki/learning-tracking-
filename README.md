@@ -16,4 +16,4 @@
 ## Files i learned.
 > This table contains the files i learned.
 
-[OOSAD](umargambaki.github.io/learning-tracking/files/OOSAD.pdf)
+[OOSAD](OOSAD.pdf)
