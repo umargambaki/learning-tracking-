@@ -13,11 +13,7 @@
 
 ---
 
-## STUDENTS GITHUB PROFILES
-> This table contains the student direct github account profile.
+## Files i learned.
+> This table contains the files i learned.
 
-|Student Name|Github Profile Link|
-|---|---|
-|Umar Sulaiman|[Umar Gambaki](github.com/umargambaki)|
-|Usman Mohammed|[Usman Ardo](github.com/usmanmohammed77)|
-|Shaibu Abubakar|[Class Rep](github.com/shuaibu)|
+[OOSAD](umargambaki.github.io/files/OOSAD.pdf)
