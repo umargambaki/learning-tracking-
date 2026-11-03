@@ -15,6 +15,7 @@
 
 ## STUDENTS GITHUB PROFILES
 > This table contains the student direct github account profile.
+
 |Student Name|Github Profile Link|
 |---|---|
 |Umar Sulaiman|[Umar Gambaki](github.com/umargambaki)|
