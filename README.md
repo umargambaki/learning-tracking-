@@ -16,4 +16,4 @@
 ## Files i learned.
 > This table contains the files i learned.
 
-[OOSAD](OOSAD.pdf)
+[OOSAD](files/OOSAD.pdf)
